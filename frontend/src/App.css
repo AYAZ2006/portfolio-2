@@ -3,6 +3,9 @@ body {
   overflow: hidden;
   margin: 0;
 }
+::-webkit-scrollbar {
+  display: none;
+}
 .starfield {
   width: 100vw;
   height: 100vh;
